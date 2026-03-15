@@ -1,2 +1,0 @@
-# AppGrupalCalculadora
-AppGrupal
